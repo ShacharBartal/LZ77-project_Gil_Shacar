@@ -1,5 +1,4 @@
 # LZ77-project_Gil_Shacar
-our project.
 
 * Java.
 * The LZ77 algorithm compresses data by identifying repetitive sequences. In cases where the repeating sequence has one different letter / symbol added, the algorithm will not recognize it as a repeating sequence. 
